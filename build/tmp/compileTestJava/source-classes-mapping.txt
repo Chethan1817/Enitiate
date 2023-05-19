@@ -1,0 +1,4 @@
+com/java/springboot/SpringbootFirstAppApplicationTests.java
+ com.java.springboot.SpringbootFirstAppApplicationTests
+com/java/springboot/repository/UserRepositoryTest.java
+ com.java.springboot.repository.UserRepositoryTest

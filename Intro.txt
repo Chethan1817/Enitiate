@@ -1,0 +1,1 @@
+This project consisits of signIn and signUP APIs built using spring boot framework.
